@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Thu, 13 Sep 2012 22:16:45 +0700</pubDate><title><![CDATA[Партнёры]]></title><url><![CDATA[partners]]></url><meta><![CDATA[9buttons, 9 buttons, разработка мобильных приложений, Android, Windows Mobile, iOS, Bada]]></meta><metad><![CDATA[9 buttons - наши партнёры]]></metad><menu><![CDATA[Наши партнёры]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[partners.php]]></template><parent></parent><content><![CDATA[&lt;center&gt;
+	&lt;ul class=&quot;clearList portfolio&quot;&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;http://9buttons.kz/?id=partner2&quot;&gt;&lt;img alt=&quot;ReportErr.org&quot; class=&quot;border-shadowed post-image&quot; src=&quot;http://9buttons.kz/data/uploads/partners/reporterr.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;http://9buttons.kz/?id=partner3&quot;&gt;&lt;img alt=&quot;kaznetmedia&quot; class=&quot;border-shadowed post-image&quot; src=&quot;http://9buttons.kz/data/uploads/partners/kaznetmedia.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;http://9buttons.kz/?id=partner4&quot;&gt;&lt;img alt=&quot;prodengi.kz&quot; class=&quot;border-shadowed post-image&quot; src=&quot;http://9buttons.kz/data/uploads/partners/mblog.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;http://9buttons.kz/?id=partner5&quot;&gt;&lt;img alt=&quot;http://apkdev.tumblr.com/&quot; class=&quot;border-shadowed post-image&quot; src=&quot;http://9buttons.kz/data/uploads/partners/4androids.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;http://9buttons.kz/?id=partner6&quot;&gt;&lt;img alt=&quot;sportlive.kz&quot; class=&quot;border-shadowed post-image&quot; src=&quot;http://9buttons.kz/data/uploads/partners/vesti.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;http://9buttons.kz/?id=partner7&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Almaty GTUG&quot; class=&quot;border-shadowed post-image&quot; src=&quot;http://9buttons.kz/data/uploads/partners/almaty-gtug.jpg&quot; title=&quot;Almaty Google Technology User Group&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/center&gt;
+]]></content><private></private><menuOrder><![CDATA[2]]></menuOrder></item>

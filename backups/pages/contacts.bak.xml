@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 30 Jun 2012 16:15:45 +0700</pubDate><title>Контакты</title><url>contacts</url><meta>9buttons, 9 buttons, разработка мобильных приложений, Android, Windows Mobile, iOS, Bada</meta><metad>9 buttons - наши контакты</metad><menu>Контакты</menu><menuStatus>Y</menuStatus><template>template.php</template><parent/><content>&amp;lt;p&amp;gt;
+	Напишите нам! Если Вы оставите свой почтовый адрес или телефон, мы быстрее свяжемся с Вами по Вашему вопросу:&amp;lt;/p&amp;gt;
+</content><private/><menuOrder><![CDATA[5]]></menuOrder></item>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 24 Jun 2012 13:29:23 +0700</pubDate><title><![CDATA[Car expenses]]></title><url><![CDATA[carexpenses]]></url><meta><![CDATA[9buttons, 9 buttons, разработка мобильных приложений, Android, CarExpenses]]></meta><metad><![CDATA[9 buttons - наши проекты: CarExpenses]]></metad><menu><![CDATA[carexpenses]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[post.php]]></template><parent><![CDATA[portfolio]]></parent><content><![CDATA[&lt;p&gt;
+	&lt;img align=&quot;right&quot; alt=&quot;Car expenses&quot; src=&quot;http://sportlive.kz/9buttons/data/uploads/projects/carexpenses/carexpenses-512512.jpg&quot; style=&quot;height: 124px; width: 124px&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;
+	Учет расходов на машину.&lt;br /&gt;
+	инимум полей - максимальное удобство.&lt;/h4&gt;
+&lt;p&gt;
+	Идея разработки приложения появилась случайно, после разговора с девушкой о том, что нет удобных программ для записи своих расходов на машину.&lt;/p&gt;
+&lt;p&gt;
+	Car expenses - самая простая программа для записи своих расходов на автомобиль. Минимум полей позволят быстро ввести необходимые данные. Простое оформление позволит быстро освоиться с программой. Не усложняйте себе жизнь, живите легко!&lt;/p&gt;
+&lt;p&gt;
+	(% gallery name=carexpenses %)&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;http://play.google.com/store/apps/details?id=kz.apkdev.carexpenses&quot; target=&quot;_blank&quot;&gt;Скачать в GooglePlay&lt;/a&gt;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><menuOrder><![CDATA[1]]></menuOrder></item>

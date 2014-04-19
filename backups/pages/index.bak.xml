@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Thu, 13 Sep 2012 21:35:59 +0700</pubDate><title><![CDATA[Главная]]></title><url><![CDATA[index]]></url><meta><![CDATA[9buttons, 9 buttons, разработка мобильных приложений, Android, Windows Mobile, iOS, Bada]]></meta><metad><![CDATA[9 buttons - разработка мобильных приложений, портфолио, наши проекты]]></metad><menu><![CDATA[Главная]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent></parent><content><![CDATA[&lt;h3&gt;
+	Портфолио&lt;/h3&gt;
+&lt;center&gt;
+	&lt;ul class=&quot;clearList portfolio&quot;&gt;
+		&lt;li&gt;
+			&lt;a class=&quot;prettyPhoto&quot; href=&quot;http://9buttons.kz/?id=newsbox&quot;&gt;&lt;img alt=&quot;News box&quot; class=&quot;post-image&quot; src=&quot;http://9buttons.kz/data/uploads/projects/newsbox/1-newsbox.jpg&quot; title=&quot;Все новости Казахстана у вас на ладони&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a class=&quot;prettyPhoto&quot; href=&quot;http://9buttons.kz/?id=carexpenses&quot;&gt;&lt;img alt=&quot;Car expenses&quot; class=&quot;post-image&quot; src=&quot;http://9buttons.kz/data/uploads/projects/carexpenses/CarExpenses.jpg&quot; title=&quot;Учёт расходов на машину. Минимум полей - максимум удобства&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a class=&quot;prettyPhoto&quot; href=&quot;http://9buttons.kz/?id=sportlive&quot;&gt;&lt;img alt=&quot;SportLive.kz&quot; class=&quot;post-image&quot; src=&quot;http://9buttons.kz/data/uploads/projects/sportlive/SportLive.jpg&quot; title=&quot;Читай новости спорта, следи за матчами прямо на мобильном&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a class=&quot;prettyPhoto&quot; href=&quot;http://9buttons.kz/?id=beeroaming&quot;&gt;&lt;img alt=&quot;BeeРоуминг&quot; class=&quot;post-image&quot; src=&quot;http://9buttons.kz/data/uploads/projects/beeroaming/beeroaming-7.jpg&quot; title=&quot;Роуминг для абонентов Beeline Казахстан&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a class=&quot;prettyPhoto&quot; href=&quot;http://9buttons.kz/?id=prodengi&quot;&gt;&lt;img alt=&quot;ProDengi&quot; class=&quot;post-image&quot; src=&quot;http://9buttons.kz/data/uploads/projects/prodengi/prodengi-1.png&quot; title=&quot;Новости про деньги, Казахстан&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/center&gt;
+]]></content><private></private><menuOrder><![CDATA[1]]></menuOrder></item>

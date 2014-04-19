@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 20 Apr 2012 17:06:40 +0700</pubDate><title><![CDATA[newsboxslide]]></title><url><![CDATA[newsboxslide]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[newsbox_slide]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[projects]]></parent><content><![CDATA[&lt;p&gt;
+	&lt;img align=&quot;left&quot; alt=&quot;NewsBox&quot; src=&quot;http://sportlive.kz/9buttons/data/uploads/projects/newsbox/newsbox.png&quot; style=&quot;width: 124px; height: 124px&quot; /&gt;NewsBox - All Local News at your fingertips!&lt;/p&gt;
+&lt;p&gt;
+	With NewsBox app you can read the latest news in Central Asia drinking your morning cup of coffee.&lt;/p&gt;
+&lt;p&gt;
+	Features:&lt;br /&gt;
+	- Full news inside the app&lt;br /&gt;
+	- Simple and intuitive interface&lt;br /&gt;
+	- Flexible set of sources&lt;br /&gt;
+	- News categories&lt;br /&gt;
+	- News search&lt;br /&gt;
+	- Share news via Facebook, Twitter and e-mail&lt;br /&gt;
+	- Favorites&lt;br /&gt;
+	- And so on&lt;/p&gt;
+&lt;p&gt;
+	At the moment there are multiple sources:&lt;br /&gt;
+	- nashaagasha.org&lt;br /&gt;
+	- kursiv.kz&lt;br /&gt;
+	- bnews.kz&lt;br /&gt;
+	- vesti.kz&lt;br /&gt;
+	- profit.kz&lt;br /&gt;
+	- kaz-news.info&lt;br /&gt;
+	- bolashak.kz&lt;br /&gt;
+	- horde.kz&lt;br /&gt;
+	- tengrinews.kz&lt;br /&gt;
+	- mir24.tv&lt;br /&gt;
+	- zonakz.net&lt;/p&gt;
+&lt;p&gt;
+	More sources will be added soon!&lt;/p&gt;
+]]></content><private><![CDATA[]]></private></item>

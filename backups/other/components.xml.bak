@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><title><![CDATA[collaboration]]></title><slug>collaboration</slug><value><![CDATA[&lt;h2&gt;Сотрудничество&lt;/h2&gt;
+&lt;p&gt;Нам интересно всё, что связано с мобильными технологиями.&lt;br&gt;
+Мы готовы обсуждать различные виды сотрудничества.&lt;br&gt;
+&lt;a href=&quot;&lt;?php get_site_url(); ?&gt;?id=contactus&quot;&gt;Расскажите о своих идеях&lt;/a&gt;, вдруг мы поможем вам легко их реализовать?&lt;/p&gt;]]></value></item><item><title><![CDATA[contact_form]]></title><slug>contact_form</slug><value><![CDATA[&lt;?php
+	$page9b = get_content(&#039;contacts&#039;);
+	echo $page9b[&#039;content&#039;];
+	$p01contact = new P01contact();
+	echo $p01contact-&gt;parse(&#039;(% contact : message %)&#039;);
+?&gt;
+&lt;script type=&#039;text/javascript&#039;&gt;initContacts();&lt;/script&gt;]]></value></item><item><title><![CDATA[mobile_share]]></title><slug>mobile_share</slug><value><![CDATA[&lt;ul&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;facebook&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;img src=&quot;data/uploads/social/facebook.png&quot; alt=&quot;facebook&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;twitter&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;img src=&quot;data/uploads/social/twitter.png&quot; alt=&quot;Twitter&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;vkontakte&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;img src=&quot;data/uploads/social/vkontakte.png&quot; alt=&quot;ВКонтакте&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;mailru&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;img src=&quot;data/uploads/social/moi-mir.png&quot; alt=&quot;Мой мир&quot;  /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;odnoklassniki&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;img src=&quot;data/uploads/social/odnoklassniki.png&quot; alt=&quot;Одноклассники&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;linkedin&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;img src=&quot;data/uploads/social/linkedin.png&quot; alt=&quot;LinkedIn&quot;  /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;googleplus&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;img src=&quot;data/uploads/social/googleplus.png&quot; alt=&quot;Google+&quot;  /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;]]></value></item><item><title><![CDATA[mobile_social]]></title><slug>mobile_social</slug><value><![CDATA[Следуйте за нами:
+&lt;noindex&gt;
+&lt;a href=&quot;http://twitter.com/9buttonskz&quot;&gt;&lt;img src=&quot;&lt;?php get_theme_url(); ?&gt;/images/social/twitter.png&quot; alt=&quot;Twitter&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://reporterr.yvision.kz/&quot;&gt;&lt;img src=&quot;&lt;?php get_theme_url(); ?&gt;/images/social/yvi.png&quot; alt=&quot;yvision&quot; /&gt;&lt;/a&gt;
+&lt;/noindex&gt;]]></value></item><item><title><![CDATA[os]]></title><slug>os</slug><value><![CDATA[&lt;div id=&quot;os&quot;&gt;
+	&lt;img src=&quot;http://9buttons.kz/data/uploads/os/android.png&quot; id=&quot;droid&quot; /&gt;
+	&lt;img src=&quot;http://9buttons.kz/data/uploads/os/bada.png&quot; id=&quot;bada&quot; /&gt;
+	&lt;img src=&quot;http://9buttons.kz/data/uploads/os/ios.png&quot; id=&quot;ios&quot; /&gt;
+	&lt;img src=&quot;http://9buttons.kz/data/uploads/os/wp.png&quot; id=&quot;wphone&quot; /&gt;
+&lt;/div&gt;
+]]></value></item><item><title><![CDATA[PixelStudio footer]]></title><slug>pixelstudio_footer</slug><value><![CDATA[&lt;div class=&quot;grid_2&quot;&gt;
+	&lt;h2&gt;Общение&lt;/h2&gt;
+	&lt;p&gt;Чтобы быть в курсе наших новостей присоединяйтесь к нам в социальных сетях:&lt;/p&gt;
+	&lt;div class=&quot;social&quot;&gt;&lt;noindex&gt;
+		&lt;a href=&quot;http://twitter.com/9buttonskz&quot; target=&quot;_blank&quot; title=&quot;Twitter&quot;&gt;&lt;img src=&quot;&lt;?php get_theme_url(); ?&gt;/images/social/twitter.png&quot; alt=&quot;Twitter&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://reporterr.yvision.kz/&quot; target=&quot;_blank&quot; title=&quot;Yvision&quot;&gt;&lt;img src=&quot;&lt;?php get_theme_url(); ?&gt;/images/social/yvi.png&quot; alt=&quot;yvision&quot; /&gt;&lt;/a&gt;
+	&lt;/noindex&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;div class=&quot;grid_2&quot;&gt;
+	&lt;h2&gt;Сотрудничество&lt;/h2&gt;
+	&lt;p&gt;Нам интересно всё, что связано с мобильными технологиями.&lt;br /&gt;
+Мы готовы обсуждать различные виды сотрудничества.&lt;br /&gt;
+&lt;a href=&quot;&lt;?php get_site_url(); ?&gt;?id=sidebar-1&quot; id=&quot;getouch&quot;&gt;Расскажите о своих идеях&lt;/a&gt;, вдруг мы поможем вам легко их реализовать?&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;grid_2&quot;&gt;
+	&lt;?php get_component(&#039;tweets&#039;); ?&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;]]></value></item><item><title><![CDATA[share]]></title><slug>share</slug><value><![CDATA[&lt;li class=&quot;share&quot; id=&quot;stack&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;trigger&quot; title=&quot;Расскажите о нас друзьям&quot;&gt;&amp;nbsp;&lt;/a&gt;
+	&lt;ul&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;facebook&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;span class=&quot;title&quot;&gt;Facebook&lt;/span&gt;&lt;img src=&quot;data/uploads/social/facebook.png&quot; alt=&quot;facebook&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;twitter&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;span class=&quot;title&quot;&gt;Twitter&lt;/span&gt;&lt;img src=&quot;data/uploads/social/twitter.png&quot; alt=&quot;Twitter&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;vkontakte&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;span class=&quot;title&quot;&gt;ВКонтакте&lt;/span&gt;&lt;img src=&quot;data/uploads/social/vkontakte.png&quot; alt=&quot;ВКонтакте&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;mailru&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;span class=&quot;title&quot;&gt;Мой&amp;nbsp;Мир&lt;/span&gt;&lt;img src=&quot;data/uploads/social/moi-mir.png&quot; alt=&quot;Мой мир&quot;  /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;odnoklassniki&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;span class=&quot;title&quot;&gt;Одноклассники&lt;/span&gt;&lt;img src=&quot;data/uploads/social/odnoklassniki.png&quot; alt=&quot;Одноклассники&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;linkedin&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;span class=&quot;title&quot;&gt;LinkedIn&lt;/span&gt;&lt;img src=&quot;data/uploads/social/linkedin.png&quot; alt=&quot;LinkedIn&quot;  /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a onclick=&quot;share(&#039;googleplus&#039;, &#039;&lt;?php get_i18n_component(&#039;tagline&#039;); ?&gt;&#039;, &#039;&lt;?php get_site_name(); ?&gt;: &lt;?php get_page_clean_title(); ?&gt;&#039;, &#039;&lt;?php get_page_url(); ?&gt;&#039;)&quot; &gt;&lt;span class=&quot;title&quot;&gt;Google&amp;nbsp;+&lt;/span&gt;&lt;img src=&quot;data/uploads/social/googleplus.png&quot; alt=&quot;Google+&quot;  /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/li&gt;]]></value></item><item><title><![CDATA[social]]></title><slug>social</slug><value><![CDATA[&lt;noindex&gt;
+&lt;div class=&quot;radial block-social&quot;&gt;
+&lt;ul class=&quot;social_p&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;http://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-count=&quot;vertical&quot; data-via=&quot;9buttonskz&quot; data-lang=&quot;en&quot;&gt;Tweet&lt;/a&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;http://platform.twitter.com/widgets.js&quot;&gt;&lt;/script&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;g:plusone size=&quot;tall&quot;&gt;&lt;/g:plusone&gt;&lt;/li&gt;
+ 	&lt;li&gt;&lt;center&gt;&lt;span id=&quot;fb-root&quot;&gt;&lt;/span&gt;&lt;script src=&quot;http://connect.facebook.net/en_US/all.js#appId=194792017246819&amp;amp;xfbml=1&quot;&gt;&lt;/script&gt;&lt;fb:like send=&quot;false&quot; layout=&quot;box_count&quot; width=&quot;50&quot; show_faces=&quot;false&quot; font=&quot;&quot;&gt;&lt;/fb:like&gt;&lt;/center&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;vk_like&quot;&gt;&lt;/span&gt;&lt;script type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;VK.Widgets.Like(&quot;vk_like&quot;, {type: &quot;vertical&quot;});&lt;/script&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;mrc__share&quot; href=&quot;http://connect.mail.ru/share&quot;&gt;Мир&lt;/a&gt;&lt;script src=&quot;http://cdn.connect.mail.ru/js/share/2/share.js&quot; type=&quot;text/javascript&quot; charset=&quot;UTF-8&quot;&gt;&lt;/script&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/noindex&gt;]]></value></item><item><title><![CDATA[Tagline]]></title><slug>tagline</slug><value><![CDATA[Разработка мобильных приложений]]></value></item><item><title><![CDATA[tweets]]></title><slug>tweets</slug><value><![CDATA[&lt;center&gt;&lt;div&gt;
+	&lt;script src=&quot;http://widgets.twimg.com/j/2/widget.js&quot;&gt;&lt;/script&gt;
+	&lt;script&gt;
+		new TWTR.Widget({
+			version: 2,
+			type: &#039;profile&#039;,
+			rpp: 3,
+			interval: 5000,
+			width: 600,
+			height: 200,
+			theme: {
+				shell: {
+					background: &#039;#9CD6EA&#039;,
+					color: &#039;#000000&#039;
+				},
+				tweets: {
+					background: &#039;#ffffff&#039;,
+					color: &#039;#000000&#039;,
+					links: &#039;#C94257&#039;
+				}
+			},
+			features: {
+				scrollbar: true,
+				loop: true,
+				live: true,
+				hashtags: true,
+				timestamp: true,
+				avatars: true,
+				behavior: &#039;default&#039;
+			}
+		}).render().setUser(&#039;9buttonskz&#039;).start();
+	&lt;/script&gt;
+&lt;/div&gt;
+&lt;/center&gt;]]></value></item><item><title><![CDATA[welcome]]></title><slug>welcome</slug><value><![CDATA[        &lt;div class=&quot;item border-shadowed rounded6&quot;&gt;
+            &lt;?php $home = get_content(&#039;index&#039;); ?&gt;
+            &lt;h1 class=&quot;grid_6&quot;&gt;&lt;?php echo get_site_name();?&gt;&lt;/h1&gt;
+            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;grid_6 slides-container&quot;&gt;
+                &lt;center&gt;
+                &lt;h4&gt;Мы делаем одно, но делаем это хорошо.&lt;/h4&gt;
+                &lt;?php get_i18n_gallery(&#039;projectsgallery&#039;); ?&gt;
+                &lt;/center&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+]]></value></item></channel>

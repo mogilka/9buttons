@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Thu, 13 Sep 2012 21:49:07 +0700</pubDate><title><![CDATA[Новости про деньги, Казахстан]]></title><url><![CDATA[prodengi]]></url><meta><![CDATA[9buttons, 9 buttons, разработка мобильных приложений, Android, ProDengi, Новости про деньги]]></meta><metad><![CDATA[9 buttons - наши проекты: ProDengi, Новости про деньги]]></metad><menu><![CDATA[Новости про деньги, Казахстан]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus></menuStatus><template><![CDATA[post.php]]></template><parent><![CDATA[portfolio]]></parent><content><![CDATA[&lt;p&gt;
+	&lt;img align=&quot;right&quot; alt=&quot;ProDengi&quot; src=&quot;http://9buttons.kz/data/uploads/projects/prodengi//prodengi.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+	Полезные публикации и новости о личных финансах, экономике и финансовой индустрии Казахстана. Только из лучших источников и подобранные экспертами Интернет портала prodengi.kz для того, чтобы вы знали, как ваши деньги будут лучше работать на вас.&lt;/p&gt;
+&lt;p&gt;
+	(% gallery name=prodengi %)&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;https://play.google.com/store/apps/details?id=kz.apkdev.prodengi&quot; target=&quot;_blank&quot;&gt;Скачать в GooglePlay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;http://mblog.kz/apps/for-android/prodengi-kz/&quot;&gt;Описание приложения на MBlog.kz&lt;/a&gt;&lt;/p&gt;
+]]></content><private></private></item>

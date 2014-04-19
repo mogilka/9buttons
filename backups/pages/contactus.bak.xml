@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 30 Jun 2012 19:41:21 +0700</pubDate><title><![CDATA[Контакты]]></title><url><![CDATA[contactus]]></url><meta><![CDATA[9buttons, 9 buttons, разработка мобильных приложений, Android, Windows Mobile, iOS, Bada]]></meta><metad><![CDATA[9 buttons - наши контакты в Алматы]]></metad><menu><![CDATA[Контакты]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[contacts]]></parent><content><![CDATA[&lt;p class=\&quot;address\&quot;&gt;
+	&lt;strong&gt;Компания &amp;laquo;9 buttons&amp;raquo;&lt;/strong&gt;&lt;br /&gt;
+	Казахстан, Алматы&lt;/p&gt;
+&lt;p class=\&quot;talk\&quot;&gt;
+	Телефон : &lt;a href=\&quot;callto:+77027143121\&quot;&gt;+7 702 714 31 21&lt;/a&gt;&lt;/p&gt;
+&lt;p class=\&quot;write\&quot;&gt;
+	Email : &lt;a href=\&quot;mailto:reporterr.org@gmail.com\&quot;&gt;reporterr.org@gmail.com&lt;/a&gt;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private></item>

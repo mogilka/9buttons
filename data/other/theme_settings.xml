@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <favicon><![CDATA[http://9buttons.kz/data/uploads/phone.png]]></favicon>
+    <sitename><![CDATA[9 buttons]]></sitename>
+    <sitename-fontsize><![CDATA[30]]></sitename-fontsize>
+    <owneremail_subject><![CDATA[Сообщение от 9buttons.kz]]></owneremail_subject>
+    <useremail_subject><![CDATA[9buttons.kz: Мы получили Ваше сообщение]]></useremail_subject>
+    <useremail_body><![CDATA[Здравствуйте!
+	
+Мы получили Ваше сообщение и очень рады, что Вы нашли время написать нам. Мы ответим вам в течение ближайших 24 часов.
+	
+С наилучшими пожеланиями,
+	
+команда 9 buttons]]></useremail_body>
+    <confirmationmessage><![CDATA[Спасибо, что написали нам. Мы ответим вам в течение ближайших 24 часов.]]></confirmationmessage>
+</item>

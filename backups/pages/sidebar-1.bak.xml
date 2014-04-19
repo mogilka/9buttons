@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 10 Sep 2012 01:59:51 +0700</pubDate><title><![CDATA[sidebar]]></title><url><![CDATA[sidebar-1]]></url><meta><![CDATA[9buttons, 9 buttons, разработка мобильных приложений, Android, Windows Mobile, iOS, Bada]]></meta><metad><![CDATA[9 buttons - наши контакты в Алматы]]></metad><menu><![CDATA[sidebar]]></menu><menuStatus></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[contacts]]></parent><content><![CDATA[&lt;h2&gt;
+	Наши контакты&lt;/h2&gt;
+&lt;p class=&quot;address&quot;&gt;
+	&lt;strong&gt;Компания &amp;laquo;9 buttons&amp;raquo;&lt;/strong&gt;&lt;br /&gt;
+	Казахстан, Алматы&lt;/p&gt;
+&lt;p class=&quot;talk&quot;&gt;
+	Телефон : +7 701 203-07-61&lt;/p&gt;
+&lt;p class=&quot;write&quot;&gt;
+	Email : &lt;a href=&quot;mailto:dev@9buttons.kz&quot;&gt;dev@9buttons.kz&lt;/a&gt;&lt;/p&gt;
+]]></content><private></private><menuOrder><![CDATA[1]]></menuOrder></item>
